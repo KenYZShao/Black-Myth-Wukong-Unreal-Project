@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ken Yuzhou Shao
 - 👀 I’m interested in Computer Graphics and Animation Developing
 - 🌱 I’m currently pursuing MSc in Virtual Reality
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on VR related project in Aerospace Engineering
 - 📫 How to reach me? My email is yshao@tcd.ie and LinkedIn is Ken Yuzhou Shao, welcome to connect with me.
 
 <!---
